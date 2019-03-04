@@ -1,0 +1,1 @@
+This is a final project for BU CS111 class. This simple python text recognition program can detect whether two fragments of text come from the same book. It uses multiple syntaxical analyses to generate a coefficient of similarity. With more data science improvements it will be able to recognize text fragments of the same author and potentially of the same genre. 
